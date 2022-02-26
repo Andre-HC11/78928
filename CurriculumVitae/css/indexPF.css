@@ -1,0 +1,28 @@
+#principal {
+    border: 1px solid black;
+    width: 80%;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+fieldset {
+    margin-bottom: 20px;
+}
+
+legend {
+    border: 1px solid rgb(36, 182, 201);
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 20px;
+    background: rgb(28, 140, 177);
+}
+
+#imagen {
+    margin: 5px;
+    border: 1px solid black;
+}
+
+body {
+    background: url(img/fondoC.jfif);
+    background-size: 100%;
+}
